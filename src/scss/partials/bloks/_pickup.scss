@@ -1,0 +1,28 @@
+.pickup{
+	position: relative;
+	max-width: 306px;
+	margin: 0 auto;
+	input[type=submit],
+	button{
+		background-color: $color3;
+		width: 119px;
+		height: 31px;
+		padding: 0 10px;
+		border: 1px solid $color2;
+		color: $color2;
+		font-size: 14px;
+	}
+	&__item{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		margin-bottom: 15px;
+	}
+	&__txt{
+		flex-shrink: 0;
+		p{
+			font-size: 14px;
+			margin: 0;
+		}
+	}
+}

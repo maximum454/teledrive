@@ -5,7 +5,12 @@
 @import "base/class";
 
 /*blocks vendors*/
-@import "vendors/bootstrap";
+@import "vendors/formstyler";
+@import "vendors/formstyler.theme";
 
-/*blocks damutek*/
+/*blocks teledrive*/
 @import "bloks/header";
+@import "bloks/main";
+@import "bloks/form";
+@import "bloks/tab-link";
+@import "bloks/pickup";

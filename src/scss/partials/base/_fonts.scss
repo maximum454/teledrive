@@ -1,8 +1,8 @@
 @font-face {
-  font-family: 'SourceSansPro';
-  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url('../fonts/SourceSansPro/SourceSansPro-Regular.ttf') format('truetype');
+  font-family: 'LucidaGrande';
+  src: local('Lucida-Grande-Regular'), local('Lucida Grande Regular'), url('../fonts/LucidaGrande/LucidaGrande-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
-$fonts1: 'SourceSansPro', Arial, Helvetica, sans-serif;
+$fonts1: 'LucidaGrande', Arial, Helvetica, sans-serif;

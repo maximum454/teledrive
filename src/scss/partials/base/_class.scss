@@ -3,6 +3,7 @@
 }
 html, body{
 	height: 100%;
+	font-size: 12px;
 	font-family: $fonts1;
 }
 .hidden{
@@ -10,4 +11,5 @@ html, body{
 }
 .wrp{
 	overflow: hidden;
+	padding: 40px;
 }
